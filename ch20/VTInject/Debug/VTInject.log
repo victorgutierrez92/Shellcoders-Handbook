@@ -1,0 +1,6 @@
+﻿  VTInject.cpp
+c:\users\user\desktop\vtinject\vtinject.cpp(99): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: see declaration of 'strncat'
+detours.lib(creatwth.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(creatwth.obj)' or at 'C:\Users\User\Desktop\VTInject\Debug\detours.pdb'; linking object as if no debug info
+  VTInject.vcxproj -> C:\Users\User\Desktop\VTInject\Debug\VTInject.exe
+  VTInject.vcxproj -> C:\Users\User\Desktop\VTInject\Debug\VTInject.pdb (Full PDB)
